@@ -16,6 +16,11 @@ const SITE_CONFIG = {
     // Example: https://wa.me/1234567890
     whatsapp: "https://wa.me/qr/SPSR5GCMQS2QI1",
 
+    // WhatsApp number for the order form — digits only, with country code (no +, no spaces)
+    // Example: "9665XXXXXXXX"
+    // IMPORTANT: replace the placeholder below with your real number before going live.
+    whatsappNumber: "WHATSAPP_NUMBER",
+
     // Instagram Link — Paste your full Instagram URL
     instagram: "https://www.instagram.com/ssmmaa.store?igsi=MXdrYjU0bm1qdXNhaw==",
 
